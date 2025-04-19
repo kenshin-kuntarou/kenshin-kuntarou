@@ -7,13 +7,12 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="python logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="35" alt="numpy logo"  />
+  <img src="https://img.shields.io/badge/NumPy-3776AB?logo=numpy&logoColor=white&style=for-the-badge" height="35" alt="numpy logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="35" alt="go logo"  />
+  <img src="https://img.shields.io/badge/Go-3776AB?logo=go&logoColor=white&style=for-the-badge" height="35" alt="go logo"  />
   <img width="10" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/MySQL-3776AB?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="mysql logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
 </div>
 
 <br clear="both">
