@@ -23,12 +23,13 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=kenshin-kuntarou&theme=nord&column=4&row=1&margin-w=20&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=kenshin-kuntarou&theme=nord&column=4&row=1&margin-w=50&margin-h=24&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenshin-kuntarou&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="250" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenshin-kuntarou&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="281" alt="activity-graph graph"  />
 </div>
+
 <br clear="both">
 
 <picture>
