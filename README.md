@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.tenor.com/1QlojlC2nVkAAAAi/lain.gif"  />
+  <img height="240" src="https://media.tenor.com/1QlojlC2nVkAAAAi/lain.gif"  />
 </div>
 
 ###
@@ -10,31 +10,13 @@
 
 ###
 
-<h1 align="center">Kenshin Kuntarou</h1>
-
-###
-
-<p align="center">I am currently studying cyber security and starting my service as a Data Science freelance. <br><br>In this profile I will be providing all my tools created for Cyberserc with totally educational intention and for my own learning.  And also so to be able to demonstrate my work within the hacking and general programming area</p>
-
-###
-
 <br clear="both">
 
 <h1 align="center">Skills</h1>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="35" alt="linux logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="35" alt="git logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35" alt="github logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=black&style=for-the-badge" height="35" alt="neovim logo"  />
-</div>
-
-###
+<br clear="both">
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="python logo"  />
@@ -51,7 +33,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=kenshin-kuntarou&theme=nord&column=4&row=4&margin-w=100&margin-h=4&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=kenshin-kuntarou&theme=nord&column=4&row=4&margin-w=130&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenshin-kuntarou&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
