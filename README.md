@@ -2,13 +2,9 @@
 
 <h1 align="center">Skills</h1>
 
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/kenshin-kuntarou/count.svg?"  />
 </div>
-
-###
 
 <br clear="both">
 
@@ -24,22 +20,15 @@
   <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=kenshin-kuntarou&theme=nord&column=4&row=1&margin-w=20&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenshin-kuntarou&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="250" alt="activity-graph graph"  />
 </div>
-
-###
-
 <br clear="both">
 
 <picture>
@@ -47,5 +36,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenshin-kuntarou/kenshin-kuntarou/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kenshin-kuntarou/kenshin-kuntarou/output/pacman-contribution-graph.svg">
 </picture>
-
-###
