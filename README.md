@@ -1,12 +1,16 @@
+<div align="center">
+  <img height="200" src="https://media.tenor.com/1QlojlC2nVkAAAAi/lain.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kenshin-kuntarou/count.svg?"  />
+</div>
+
+###
+
 <h1 align="center">Kenshin Kuntarou</h1>
-
-###
-
-<img align="right" height="254" src="https://media.tenor.com/1QlojlC2nVkAAAAi/lain.gif"  />
-
-###
-
-<h3 align="center">About me</h3>
 
 ###
 
