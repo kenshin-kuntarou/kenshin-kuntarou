@@ -2,10 +2,6 @@
 
 <h1 align="center">Skills</h1>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kenshin-kuntarou/count.svg?"  />
-</div>
-
 <br clear="both">
 
 <div align="center">
@@ -31,11 +27,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenshin-kuntarou&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="281" alt="activity-graph graph"  />
 </div>
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenshin-kuntarou/kenshin-kuntarou/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenshin-kuntarou/kenshin-kuntarou/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kenshin-kuntarou/kenshin-kuntarou/output/pacman-contribution-graph.svg">
-</picture>
